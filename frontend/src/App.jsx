@@ -1,3 +1,4 @@
+
 import { BrowserRouter, Navigate, Route, Routes } from "react-router"
 
 import AddProductPage from "./pages/AddProductPage.jsx"
